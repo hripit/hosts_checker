@@ -1,17 +1,16 @@
 Проект выполнен в рамках тестового задания на должность python разработчика.
 
-# Клонировать проект
+# Для запуска приложения:
+# 1. Клонировать проект
 git clone [https://github.com/hripit/hosts_cheker.git](https://github.com/hripit/hosts_checker.git)
 
 # Перейти в папку
 cd hosts_checker
 
-# Установить зависимости
+# 2. Установить зависимости
 pip install -r requirements.txt
 
-# Запустить приложение
+# 3. Запустить приложение
 python main.py
 
-или
-
-Скачайте и запустите файл dist/main.exe
+или Скачайте и запустите файл dist/main.exe
