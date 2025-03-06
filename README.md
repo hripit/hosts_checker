@@ -9,3 +9,7 @@ pip install -r requirements.txt
 
 # Запустить приложение
 python main.py
+
+или
+
+Скачайте и запустите файл main.exe
