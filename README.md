@@ -12,4 +12,4 @@ python main.py
 
 или
 
-Скачайте и запустите файл main.exe
+Скачайте и запустите файл dist/main.exe
