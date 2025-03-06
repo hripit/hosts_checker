@@ -1,3 +1,5 @@
+Проект выполнен в рамках тестового задания на должность python разработчика.
+
 # Клонировать проект
 git clone [https://github.com/hripit/hosts_cheker.git](https://github.com/hripit/hosts_checker.git)
 
